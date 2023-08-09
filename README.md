@@ -80,4 +80,4 @@ Below are some of the notable POC projects I completed during my internship, dem
    [Watch Demo](https://fb.watch/hlMGbqrPvv/)
 
 
-In summary, my internship experience equipped me with hands-on expertise in cloud infrastructure, DevOps practices, and cloud service utilization. I am now ready to contribute to challenging DevOps projects in a professional capacity.
+In summary, my part-time internship experience equipped me with hands-on expertise in cloud infrastructure, DevOps practices, and cloud service utilization. I am now ready to contribute to challenging DevOps projects in a professional capacity.
