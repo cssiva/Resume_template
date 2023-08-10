@@ -1,4 +1,3 @@
-# Resume_template
 
 **Professional Experience**
 
