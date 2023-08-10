@@ -3,7 +3,6 @@
 **Professional Experience**
 
 **Part-Time Internship - Cloud Infrastructure Intern**
-*Company Name (optional) - Location (optional) | Start Date - End Date*
 
 During my first part-time internship, I embarked on a journey to delve deeper into real-world cloud computing operations, focusing on Amazon Web Services (AWS) and Microsoft Azure (AZURE). This experience was pivotal in honing my skills in cloud infrastructure, DevOps practices, and automation techniques. I successfully executed a series of Proof of Concept (POC) projects that showcased my proficiency in various cloud services and tools. Here are some of the key highlights from my internship:
 
